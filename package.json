@@ -1,0 +1,31 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+   "engines": {
+    "node": "5.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesJohn007/venom.git"
+  },
+  "author": "baymax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesJohn007/venom/issues"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
